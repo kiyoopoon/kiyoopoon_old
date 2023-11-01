@@ -9,18 +9,18 @@
 <a href="https://discord.com/users/738748102311280681"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
-### Hi!👋 I'm **`Thủy`** aka `Mizu 🦴`
+### Hi! I'm **`Kiyo`** aka `Kiyopon`
 
-**Weeb Developer and Gamer** 
+**AI Developer and Weeb** 
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
-I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+I'm Kiyopon and my hobbies are coding, playing osu, listening to music and occasionally watching anime. Theres nothing special about me, just a normal high school student.
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently learning Javascript. I was a game developer and front-end developer in the past, but currently, I am working on AI development with Python.
 
 
 ## **📊 Github Stats**
@@ -33,7 +33,7 @@ I'm currently studying software engineering at [ICTU - Thai Nguyen University of
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
 </p>
 
-## **🧋Cutie Counter**
+## **🍰 Cutie Counter**
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
 </p> -->
@@ -41,16 +41,16 @@ I'm currently studying software engineering at [ICTU - Thai Nguyen University of
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
 
 ```yaml
-People who visit my profile :3.
+Ppl who visit my profile :3
 
-Hehe~ another cutie has been caught.
+Hehe~ another cutie has been caught
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
+**Discord - ** [kiyoopoon](https://discord.com/users/1135128375225225256)
 
-**You can also email me here:** acutegirldoescutethings@gmail.com
+**You can also dm me on Instagram - [ayanokojipon](https://www.instagram.com/ayanokojipon/)** 
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"> -->
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/MiyagawaMizu)
