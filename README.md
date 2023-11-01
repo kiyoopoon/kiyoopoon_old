@@ -14,17 +14,17 @@
 **AI Developer and Weeb** 
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/kiyoopon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
 I'm Kiyopon and my hobbies are coding, playing osu, listening to music and occasionally watching anime. Theres nothing special about me, just a normal high school student.
 <br><br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+<a href="https://github.com/kiyoopon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
 I'm currently learning Javascript. I was a game developer and front-end developer in the past, but currently, I am working on AI development with Python.
 I don't have anything special, but I hope to be able to change that in the future.
 
 ## **📊 Github Stats**
-<!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
+<!-- <div><a href="https://github.com/kiyoopon"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyoopon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoopon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
@@ -37,8 +37,8 @@ I don't have anything special, but I hope to be able to change that in the futur
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@kiyoopon?theme=moebooru-h"> <br/>
 </p> -->
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopon?theme=rule34"></a>
+<a href="https://github.com/kiyoopon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
 
 ```yaml
 Ppl who visit my profile :3
@@ -47,8 +47,8 @@ Hehe~ another cutie has been caught
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Discord - ** [kiyoopoon](https://discord.com/users/1135128375225225256)
+<a href="https://github.com/kiyoopon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
+**Discord - [kiyoopoon](https://discord.com/users/1135128375225225256)**
 
 **You can also dm me on Instagram - [ayanokojipon](https://www.instagram.com/ayanokojipon/)**
 
