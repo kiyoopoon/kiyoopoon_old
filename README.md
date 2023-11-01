@@ -100,6 +100,8 @@ Hehe~ another cutie has been caught
 
 **You can also dm me on Instagram - [ayanokojipon](https://www.instagram.com/ayanokojipon/)**
 
+**Consider joining my discord server - [gg/animecafe](https://discord.gg/8C98Tqkspq)**
+
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kiyoopon"> -->
 [![](https://img.shields.io/github/followers/kiyoopon?label=Followers&style=social)](https://github.com/kiyoopon)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1135128375225225256)
