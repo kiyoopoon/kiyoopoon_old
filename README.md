@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Konichiwa+%3A3)](https://git.io/typing-svg)
 
-<a href="https://discord.com/users/1135128375225225256"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://discord.com/users/1135128375225225256"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1135128375225225256?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
 ### Hi! I'm **`Kiyo`** aka `Kiyopon`
@@ -52,7 +52,7 @@ Hehe~ another cutie has been caught
 
 **You can also dm me on Instagram - [ayanokojipon](https://www.instagram.com/ayanokojipon/)**
 
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"> -->
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kiyoopon"> -->
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/kiyoopon)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1135128375225225256)
-<!-- [![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
+<!-- [![Kiyopon](https://cdn.bio.link/uploads/profile_pictures/2023-10-16/P2SNmLjEP1HIf1FtmXEZCRWei7Ju4bPm.png)](https://kiyopon.bio.link/) -->
