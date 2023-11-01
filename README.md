@@ -14,7 +14,7 @@
 **AI Developer and Weeb** 
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://media.discordapp.net/attachments/1132030146434584656/1169257465754419250/afdfc83ee05b50b924a58fb67e5431ce.png"></a>
 I'm Kiyopon and my hobbies are coding, playing osu, listening to music and occasionally watching anime. Theres nothing special about me, just a normal high school student.
 <br><br>
 
