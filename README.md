@@ -16,7 +16,7 @@
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
 I'm Kiyopon and my hobbies are coding, playing osu, listening to music and occasionally watching anime. Theres nothing special about me, just a normal high school student.
-<br><br>
+<br><br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
