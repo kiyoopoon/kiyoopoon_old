@@ -109,5 +109,5 @@ Hehe~ another cutie has been caught
 
 ## **😎 Chill**
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-3rdoywg9o-kiyopons-projects/api" alt="Current Spotify Song">
+  <img src="https://spotify-readme-eosin.vercel.app/api" alt="Current Spotify Song">
 </a>
