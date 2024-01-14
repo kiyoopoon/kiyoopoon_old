@@ -98,8 +98,6 @@ Hehe~ another cutie has been caught
 <a href="https://github.com/kiyoopon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
 **Discord - [kiyoopoon](https://discord.com/users/1135128375225225256)**
 
-**You can also dm me on Instagram - [ayanokojipon](https://www.instagram.com/ayanokojipon/)**
-
 **Consider joining my discord server - [gg/animecafe](https://discord.gg/8C98Tqkspq)**
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kiyoopon"> -->
