@@ -14,18 +14,18 @@
 **AI Developer and Weeb** 
 
 ## **☕ About me**
-<a href="https://github.com/kiyoopon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/kiyoopoon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
 I'm Kiyopon and my hobbies are coding, playing osu, listening to music and occasionally watching anime. Theres nothing special about me, just a normal high school student.
 <br><br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/kiyoopon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+<a href="https://github.com/kiyoopoon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
 I'm currently learning Javascript. I was a game developer and front-end developer in the past, but currently, I am working on AI development with Python.
 I don't have anything special, but I hope to be able to change that in the future.
 
 ## **📊 Github Stats**
-<!-- <div><a href="https://github.com/kiyoopon"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyoopon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoopon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<!-- <div><a href="https://github.com/kiyoopoon"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 ## **🎧 Used Technologies**
@@ -83,10 +83,10 @@ I don't have anything special, but I hope to be able to change that in the futur
 
 ## **🍰 Cutie Counter**
 <!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@kiyoopon?theme=moebooru-h"> <br/>
+	<img src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=moebooru-h"> <br/>
 </p> -->
-<a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopon?theme=rule34"></a>
-<a href="https://github.com/kiyoopon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
+<a href="https://github.com/kiyoopoon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
 
 ```yaml
 Ppl who visit my profile :3
@@ -100,7 +100,7 @@ Hehe~ another cutie has been caught
 
 **Consider joining my discord server - [gg/animecafe](https://discord.gg/8C98Tqkspq)**
 
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kiyoopon"> -->
-[![](https://img.shields.io/github/followers/kiyoopon?label=Followers&style=social)](https://github.com/kiyoopon)
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kiyoopoon"> -->
+[![](https://img.shields.io/github/followers/kiyoopoon?label=Followers&style=social)](https://github.com/kiyoopoon)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1135128375225225256)
 <!-- [![Kiyopon](https://cdn.bio.link/uploads/profile_pictures/2023-10-16/P2SNmLjEP1HIf1FtmXEZCRWei7Ju4bPm.png)](https://kiyopon.bio.link/) -->
