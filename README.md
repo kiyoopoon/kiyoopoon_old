@@ -95,7 +95,7 @@ Hehe~ another cutie has been caught
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/kiyoopon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
+<a href="https://github.com/kiyoopoon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
 **Discord - [kiyoopoon](https://discord.com/users/1135128375225225256)**
 
 **Consider joining my discord server - [gg/animecafe](https://discord.gg/8C98Tqkspq)**
