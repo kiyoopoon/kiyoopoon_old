@@ -81,7 +81,7 @@ I don't have anything special, but I hope to be able to change that in the futur
 </div>
 </p>
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://kiyoopon.vercel.app/api/spotify)](https://open.spotify.com/user/0pmz0qbwqj5pvjgixc7v36r6o)
 
 ## **🍰 Cutie Counter**
 <!-- <p align="center">
