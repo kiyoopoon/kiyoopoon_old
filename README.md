@@ -81,6 +81,8 @@ I don't have anything special, but I hope to be able to change that in the futur
 </div>
 </p>
 
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 ## **🍰 Cutie Counter**
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=moebooru-h"> <br/>
