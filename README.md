@@ -4,7 +4,9 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Konichiwa+%3A3)](https://git.io/typing-svg)
+<br>
+	<image src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+Mono&size=16&color=246C61&center=true&width=410&height=45&lines=system.kill()">
+</br>
 
 <a href="https://discord.com/users/1135128375225225256"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1135128375225225256?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117&idleMessage=Playing%20with%20Rem%20"></a>
 
